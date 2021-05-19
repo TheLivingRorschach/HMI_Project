@@ -1,0 +1,6 @@
+public enum FSM {
+  PAGE_ACCEUIL,
+  PAGE_MAISON,
+  PAGE_CHAMBRE,
+  PAGE_ROUTINE
+}
